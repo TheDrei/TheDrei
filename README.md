@@ -5,10 +5,6 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=28&pause=1000&color=5EA0EF&center=true&vCenter=true&width=600&lines=I+am+a+Full+Stack+Web+Developer;I+build+things+for+the+web;Backend+%7C+Frontend+%7C+Everything+in+between;Always+learning%2C+always+building)](https://git.io/typing-svg)
 
-<i>"Code is like humor. When you have to explain it, it's bad."</i>
-
-<br>
-
 ![Profile Views](https://komarev.com/ghpvc/?username=TheDrei&color=5EA0EF&style=flat-square&label=Profile+Views)
 ![GitHub followers](https://img.shields.io/github/followers/TheDrei?label=Followers&style=flat-square&color=5EA0EF)
 </div>
