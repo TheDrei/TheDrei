@@ -1,5 +1,4 @@
 <div align="center">
-
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="60px">
 
 # Hey there, I'm Jan Andrei Cambay 👋
@@ -12,10 +11,10 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=TheDrei&color=5EA0EF&style=flat-square&label=Profile+Views)
 ![GitHub followers](https://img.shields.io/github/followers/TheDrei?label=Followers&style=flat-square&color=5EA0EF)
-
 </div>
 
 ---
+
 <div align="center">
 
 ### 🛠️ Tech Stack
@@ -37,6 +36,6 @@
 ### 📊 GitHub Stats
 
 <img src="https://github-readme-stats.vercel.app/api?username=TheDrei&show_icons=true&theme=tokyonight&hide_border=true" width="49%">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=TheDrei&theme=tokyonight&hide_border=true" width="49%">
+<img src="https://streak-stats.demolab.com/?user=TheDrei&theme=tokyonight&hide_border=true" width="49%">
 
 </div>
