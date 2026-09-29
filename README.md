@@ -24,13 +24,3 @@
 
 </div>
 
-<br>
-
-<div align="center">
-
-### 📊 GitHub Stats
-
-<img src="https://github-readme-stats.vercel.app/api?username=TheDrei&show_icons=true&theme=tokyonight&hide_border=true" width="49%">
-<img src="https://streak-stats.demolab.com/?user=TheDrei&theme=tokyonight&hide_border=true" width="49%">
-
-</div>
